@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advenakash&label=Profile%20views&color=0e75b6&style=flat" alt="advenakash" /> </p>
 
-<p align="left"> <a href="https://twitter.com/advenakasha" target="blank"><img src="https://img.shields.io/twitter/follow/advenakasha?logo=twitter&style=for-the-badge" alt="advenakasha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/advenakash" target="blank"><img src="https://img.shields.io/twitter/follow/advenakasha?logo=twitter&style=for-the-badge" alt="advenakasha" /></a> </p>
 
 - 🔭 I’m currently working on **Blog Website**
 
